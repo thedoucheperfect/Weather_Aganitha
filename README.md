@@ -15,5 +15,3 @@ It uses:
 - ⚡ Fast and lightweight React app  
 
 ---
-
-## 📂 Project Structure
